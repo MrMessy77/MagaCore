@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MagaCore-MagaCoreUITests/Pods-MagaCore-MagaCoreUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/ReSwift/ReSwift.framework
+${BUILT_PRODUCTS_DIR}/ReSwiftThunk/ReSwiftThunk.framework

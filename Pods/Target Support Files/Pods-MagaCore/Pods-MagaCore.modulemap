@@ -1,0 +1,6 @@
+framework module Pods_MagaCore {
+  umbrella header "Pods-MagaCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - ReSwift (6.1.1)
+  - ReSwiftThunk (2.0.1):
+    - ReSwift (~> 6.0)
+    - ReSwiftThunk/Core (= 2.0.1)
+  - ReSwiftThunk/Core (2.0.1):
+    - ReSwift (~> 6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Moya (~> 15.0)
+  - ReSwift
+  - ReSwiftThunk
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - ReSwift
+    - ReSwiftThunk
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ReSwift: 929afd2c897f0d33c76c730710a31bb2d2a66713
+  ReSwiftThunk: 7ca5145764be6f30b62db88a52d170133954629e
+
+PODFILE CHECKSUM: 682347ec3f770a02c0023ad51fbe7f81956fce71
+
+COCOAPODS: 1.12.1
